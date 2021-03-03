@@ -1,11 +1,4 @@
 node_modules
 dist
 .vscode
-*.7z
-*.dmg
-*.gz
-*.iso
-*.jar
-*.rar
-*.tar
-*.zip
+.zip
